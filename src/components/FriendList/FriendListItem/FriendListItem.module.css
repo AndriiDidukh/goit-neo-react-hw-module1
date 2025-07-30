@@ -1,0 +1,31 @@
+.friendContainer {
+  border: 2px solid #000;
+  width: 70px;
+  color: #000;
+  border-radius: 8px;
+}
+
+.friendImage {
+  display: block;
+  margin: 10px auto;
+}
+
+.friendName {
+  margin: 0;
+  text-align: center;
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.friendStatus {
+  margin: 0;
+  text-align: center;
+}
+
+.online {
+  color: green;
+}
+
+.offline {
+  color: red;
+}
